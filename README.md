@@ -12,6 +12,6 @@ Chi tiết phim
 <img src="https://github.com/user-attachments/assets/68c75bc3-874f-4f26-9863-9608b3cef090"/>
 Xem phim
 <img src="https://github.com/user-attachments/assets/3218cce9-6aee-4664-9432-0a57c16d2779"/>
-
+etc....
 
 
