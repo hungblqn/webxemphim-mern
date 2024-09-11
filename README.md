@@ -1,3 +1,3 @@
-Đồ án tốt nghiệp | Graduation Project
-Movie Streaming Website | Web xem phim online
+Đồ án tốt nghiệp | Graduation Project <br/>
+Movie Streaming Website | Web xem phim online <br/>
 Tech stack: MongoDB, Express.js, Node.js, React.js
